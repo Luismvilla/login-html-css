@@ -1,6 +1,6 @@
 # Modelo de login
 
-estilo de login completo
+estilo de login transparente
 
 ## Tecnologías
 - HTML5
